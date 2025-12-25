@@ -91,16 +91,16 @@
   <a href="https://x.com/SachinDasture" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <!--<a href="https://www.instagram.com/ratheshan_03/" target="_blank">
+  <!--<a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100003874786181" target="_blank">
+  <a href="https://?id=100003874786181" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />-->
   </a>
   <a href="https://github.com/DastureSachin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-   <!--<a href="https://open.spotify.com/user/31xw3bkkvliubehb764jl5scttru" target="_blank">
+   <!--<a href="" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />-->
   </a>
 </div>
