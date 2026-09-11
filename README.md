@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- B.Tech Computer Science & Engineering student (2022–2026)
+- B.Tech Computer Science & Engineering 2026 Graduate
 - Interested in building scalable web applications and backend systems
 - Hands-on experience with full-stack development, cloud platforms, and AI-based projects
 - Actively learning modern frameworks, cloud deployment practices, and agentic AI automation systems
